@@ -7,7 +7,7 @@ var data = [
             image:"https://farm2.staticflickr.com/1166/1359158410_46d778223f.jpg",
             description:"Campground1"},
         {name: "Granite Hill",
-            image:"https://pixabay.com/get/e837b1072af4003ed1584d05fb1d4e97e07ee3d21cac104496f4c670a3e9b4ba_340.jpg",
+            image:"https://pixabay.com/get/e83db50929f0033ed1584d05fb1d4e97e07ee3d21cac104496f7c878a6ebb4bf_340.jpg",
             description:"Campground3"  
         },
         {name: "Mountain Goat's Rest",
