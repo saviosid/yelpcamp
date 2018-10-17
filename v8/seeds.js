@@ -27,7 +27,7 @@ function seedDB(){
         if(err){
             console.log(err);}
         else {
-            console.log("Campgrounds Removed")
+            console.log("Campgrounds Removed");
         };
         
          //add campgrounds
@@ -54,7 +54,7 @@ function seedDB(){
                 }
             
             });
-        });
+        }); 
     
     });
     
